@@ -1,2 +1,2 @@
-def addNums(a, b):
-	return a + b
+def modifiedAddNums (a, b):
+	return a - b
